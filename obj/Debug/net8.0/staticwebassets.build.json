@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gLfQp55cGXjK4kh9+6gbySpj7xbg7A31bVo8oPNY7tw=",
+  "Source": "DotNet-ToDo-API",
+  "BasePath": "_content/DotNet-ToDo-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
